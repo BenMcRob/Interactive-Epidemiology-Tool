@@ -1,4 +1,5 @@
-Welcome to our Interactive Epidemiology Tool! (Team 4)
+*** Need jfreechart to build ***
+Most important files found in src/main/java in both model and view folders.
 
 * Instructions *
 
@@ -40,5 +41,3 @@ This is also the case for Smallpox, but there will still be the option for a vac
 Mutation cuts the timeframe chosen for the epidemic to run in half and in the second half simulates a mutation of the disease. From the
 midpoint of the timeframe the disease will restore the Susceptible population with all living Recovered and remove any protection
 from vaccination.
-
-The program is best accompanied by playing the album "Himiko Kikuchi - Flying Beagle (1987)" in the background. Easily found on youtube.
