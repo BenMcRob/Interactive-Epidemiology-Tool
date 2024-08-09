@@ -1,0 +1,18 @@
+Smallpox, caused by the variola virus, was endemic for thousands of years. The disease is spread via respiratory droplets,
+and it is highly contagious with an R_0 ranging from three to six. Some of the worst smallpox outbreaks occurred when the 
+disease was exposed to populations that had not had a chance to build up a natural immunity to it. Most famously brought 
+to the Americas by European settlers, smallpox eradicated a large percentage of the native american population. Estimated 
+to have killed as many as 90% in some areas, many tribes were entirely wiped out. Smallpox also is especially susceptible 
+to young children often with a mortality rate as high as 80%. It has been estimated to have killed between 300 and 500 
+million people over its three thousand years. 
+
+When infected with the disease, its incubation period can last from 7 to 17 days making it much easier to spread before 
+symptoms show. Initial symptoms are consistent with the common flu; however, after a few days, a characteristic rash 
+consisting of pustules will begin to cover the skin. These will eventually scab over and leave heavy scarring (these 
+scars provided the first evidence of smallpox when they were discovered on ancient mummies in Egypt). Those that survive 
+will often have long term complications that can include respiratory problems and even blindness.
+
+Through extensive efforts to catch outbreaks early as well as widespread vaccination campaigns the World Health 
+Organization was able to officially eradicate the disease in 1977 when the last natural case was recorded in Somalia. 
+Today, regular smallpox vaccinations are not required, making it the first fully eradicated disease in history. 
+

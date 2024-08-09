@@ -1,0 +1,17 @@
+In the short period between Spring of 1918 and 1919, a particularly dangerous strain of H1N1 would ravage the global 
+population. Leaving roughly 60 million dead by the end, the Spanish flu would go down as one of the most devastating 
+pandemics in modern history. Despite a relatively low R_0 between 1.4 and 2.8, the Spanish Flu spread rapidly across 
+the globe thanks to the intense conditions of WWI. Large populations of soldiers and immigrants were constantly 
+moving between countries and continents spreading the disease. These groups were often living in areas with poor 
+sanitation and high population density. 
+
+The pandemic would come in three distinct waves spread out over the year that it was present. The first wave was 
+relatively mild. Many would recover, only experiencing mild symptoms. It is widely believed that the second wave, 
+by far the most deadly, was caused by a mutation of the virus that would make it both more dangerous and more 
+easily transmissible. The final wave was not as intense as many had developed an immunity to the virus. 
+
+The symptoms of the Spanish Flu are often just more extreme symptoms of the typical flu we are used to; however, 
+they would often become so extreme, the patients would begin to turn blue due to lack of oxygen. Pneumonia (a 
+condition where the air sacs of a patient's lungs become inflamed by infectious agents) could kill a patient 
+within a few days. One unusual aspect of the Spanish Flu was its high impact on young healthy adults. It's been 
+theorized that their strong immune response would often do more harm than good, leading to inflammatory reactions.  

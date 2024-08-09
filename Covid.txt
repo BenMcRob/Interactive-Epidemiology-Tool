@@ -1,0 +1,21 @@
+Like many viruses, covid spreads through respiratory droplets that are produced when an infected person talks or breathes.
+It spreads fast thanks to a relatively high R_0 between two and three (on average one infected person will infect 2 to 3 
+others). This value can be greatly reduced via quarantine thanks to Covid's moderate incubation period between 4 and 5 days.
+
+Seemingly originating from a busy seafood market in Wuhan ChinaIn, an unusual concentration of pneumonia cases was first 
+noticed by health officials in December of 2019. By January of 2020, experts had identified the cause as a new coronavirus 
+that had likely jumped from one of the animals kept at the market to an unlucky patient zero. Chinese officials acted quickly
+to lock down the area, but by then it was far too late. In part thanks to heavy holiday traffic, Covid spread rapidly before
+epidemiologists truly understood how infectious it was, and by April of 2020, Covid had spread to most corners of the world. 
+
+Early responses to decrease the spread of infection like social distancing, consistent testing, and lockdown helped
+tremendously to "flatten the curve". (a term referring to the importance of minimizing the number of people infected
+at any one time in order to not overwhelm the healthcare system) though the degree to how seriously different nations
+took the precautions had a great impact on the total total percentage infected, and ultimately the death toll. 
+
+The rapid development of a vaccine also assisted in quelling the spread of the disease. Though vaccines don't completely
+eliminate your chances of contracting covid, they can considerably reduce your chances of having a severe reaction as
+well as decrease the likelihood you will infect others. This is because antibodies that fight the virus will decrease
+the "viral load" (a term referring to the amount of virus that you shed to the environment). 
+
+

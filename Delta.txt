@@ -1,0 +1,15 @@
+The Delta variant first showed up in India in October of 2020. The variants of coronavirus (SARS-CoV-2) deemed worthy
+of concern are named for Greek letters. The proper categorical name for Delta is B.1.617.2.
+
+Variants are just another way of saying that they are a mutation of a disease. Delta's mutation is due at least 13 
+different changes in its genetic structure compared to the base coronavirus virus. These genetic changes create proteins
+with slightly altered shapes, which affects their function. For Delta, the protein that was most drastically changed was
+the spike protein. The spike protein is the largest structural protein for the coronavirus and is where the virus
+gets its name from. The spike protein in the coronavirus allows the virus to penetrate cells and fuse their membranes
+together. Effectively the spike protein is responsible for the virulency of the coronavirus, and the Delta variant's
+mutations to this protein make it more infectious and deadly.
+
+Aside from this, the Delta virus is nearly identical to any other member of the coronavirus family. Its virulency
+meant that it dominated the other variants and caused them to go extinct. These variants include Alpha, Beta, 
+and Gamma. Though it appears, at time of writing, that Delta itself has gone extinct due to the Omicron variant.
+

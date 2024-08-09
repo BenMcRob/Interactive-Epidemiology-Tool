@@ -1,0 +1,21 @@
+As you can see above a single strain of the Flu will eventually die out like any other virus, but that is not consistent with our
+own experience. As the name suggests, seasonal flu does not die out and it remains endemic to nearly the entire world. This is 
+due to the seasonal Flu finding  its strength not in a high R_0 or a long incubation period but in sheer variety. 
+
+Though only caused by three main families of the influenza virus, it is estimated that there are thousands of individual strains 
+of Influenza A, the most common family, and a slightly smaller amount for strains B and C. Thanks to the Flu's endemic nature, 
+each strain is constantly changing, making them difficult to pin down by vaccines. Any time someone is infected with a strain, 
+each individual virus in the person's body has a chance to mutate its structure through random motion. Most of these 
+mutations will be useless or harmful to the virus, but occasionally they will create a new version that can spread just as 
+quickly, but are not recognized by our body's immune system. It is through this process that new strains are made and it's 
+why a new Flu vaccine must be developed every year. 
+
+With the Flu being a mainstay in modern life, it is easy to grow dismissive of the virus's danger. It is important to remember 
+that it can be deadly on a large scale, especially in areas with poor sanitation and health care. In 2015, an especially 
+dangerous strain of Influenza A killed 4000 people in Madagascar, most of whom were children under five. 
+
+Despite there being seemingly no chance of ending our battle with influenza, it is important to take each new flu vaccine that 
+is developed. Being vaccinated against the latest strains can greatly reduce the health risks that the Flu would have on you. 
+It also greatly decreases your chances of spreading the disease to others, and generally decreases the number of people to get 
+the disease every year. This is particularly important as it lowers the chances of existing influenza strains mutating into new 
+ones.
